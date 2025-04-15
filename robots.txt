@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /admin/     
 Allow: /      
 
-Sitemap: #url
+Sitemap: https://baohanhdaikinhanoi.click/
